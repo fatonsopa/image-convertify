@@ -28,7 +28,7 @@ Convertify.convert('<your-path-goes-here>')
 
 # Advanced usage
 ```python
-convertify --source=/path/to/your/images/ --destination=/path/to/your/destination/ -from=png -to=webp -recursive=false
+convertify --source=/path/to/your/images/ --destination=/path/to/your/destination/ --from=png --to=webp --recursive=false
 ```
 
 ```python
